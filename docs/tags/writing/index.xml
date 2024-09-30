@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on the willy weave</title>
-    <link>https://austinwilhelm.com/tags/writing/</link>
+    <link>https://austinwilhelm.github.io/willyweave/tags/writing/</link>
     <description>Recent content in Writing on the willy weave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://austinwilhelm.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://austinwilhelm.github.io/willyweave/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>beginnings are such delicate times</title>
-      <link>https://austinwilhelm.com/posts/my-first-post/</link>
+      <link>https://austinwilhelm.github.io/willyweave/posts/my-first-post/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://austinwilhelm.com/posts/my-first-post/</guid>
+      <guid>https://austinwilhelm.github.io/willyweave/posts/my-first-post/</guid>
       <description>for all things preposterous and pronounced&#xA;letting the wildest reaches of my imagination&#xA;run rampant on an infinite digital canvas&#xA;for once you&amp;rsquo;ve read, you cannot unread&#xA;let each piece hit you where it must&#xA;though I hope it soft&#xA;these are my dreams, hopes, thoughts, joys&#xA;for all time, always</description>
     </item>
   </channel>
