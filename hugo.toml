@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'the willy weave'
 theme = 'typo'
 
+publishDir = "docs"
+
 [taxonomies]
 tag = 'tags'
 
