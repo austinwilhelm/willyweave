@@ -50,7 +50,7 @@ url = "https://github.com/austinwilhelm"
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = "/"
+url = "/willyweave"
 
 [[params.menu]]
 name = "posts"
