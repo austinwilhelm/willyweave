@@ -1,0 +1,28 @@
+---
+title: "beginnings are such delicate times"
+date: "2024-09-29"
+summary: ""
+description: ""
+toc: false
+readTime: true
+autonumber: true
+math: true
+tags: ["poetry", "writing"]
+showTags: false
+hideBackToTop: false
+---
+
+for all things preposterous and pronounced  
+letting the wildest reaches of my imagination  
+run rampant on an infinite digital canvas  
+for once you've read, you cannot unread  
+
+  
+    
+
+let each piece hit you where it must  
+though I hope it soft  
+these are my dreams, hopes, thoughts, joys  
+for all time, always
+
+
