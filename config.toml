@@ -29,7 +29,7 @@ creator, dreamer, and believer. lit by passion to bring wonder to others.
 """
 
 # Collection to display on home
-homeCollectionTitle = 'words'
+homeCollectionTitle = '✍︎ words'
 homeCollection = 'posts'
 
 # Lists parameters
