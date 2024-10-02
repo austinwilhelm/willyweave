@@ -41,13 +41,13 @@ listDateFormat = '2 Jan 2006'
 breadcrumbs = false
 
 # Social icons
-[[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/austin-wilhelm/"
+# [[params.social]]
+# name = "linkedin"
+# url = "https://www.linkedin.com/in/austin-wilhelm/"
 
-[[params.social]]
-name = "github"
-url = "https://github.com/austinwilhelm"
+# [[params.social]]
+# name = "github"
+# url = "https://github.com/austinwilhelm"
 
 # Main menu pages
 [[params.menu]]
