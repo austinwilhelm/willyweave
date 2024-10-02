@@ -15,7 +15,7 @@ googleAnalytics = "G-xxxxxxxxx"
 # Meta description
 description = "an adventure with words"
 # Favicons
-faviconPath = "/"
+faviconPath = "static/"
 
 # Appearance settings
 theme = 'auto'
