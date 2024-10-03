@@ -33,7 +33,7 @@ homeCollectionTitle = '✍︎'
 homeCollection = 'posts'
 
 # Lists parameters
-paginationSize = 3
+paginationSize = 5
 listSummaries = true
 listDateFormat = '2 Jan 2006'
 
@@ -54,9 +54,9 @@ breadcrumbs = false
 name = "home"
 url = "/willyweave"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+#[[params.menu]]
+# name = "posts"
+# url = "/posts"
 
 # [[params.menu]]
 # name = "about"
