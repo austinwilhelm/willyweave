@@ -16,6 +16,8 @@ googleAnalytics = "G-xxxxxxxxx"
 description = "an adventure with words"
 # Favicons
 faviconPath = ""
+# Footer info
+showFooter = false
 
 # Appearance settings
 theme = 'auto'
