@@ -27,7 +27,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'hello friend'
 homeIntroContent = """
-simply daring to bring wonder and love to others.
+daring to bring wonder and love to others.
 """
 
 # Collection to display on home
