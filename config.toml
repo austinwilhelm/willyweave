@@ -27,15 +27,15 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'hello friend'
 homeIntroContent = """
-daring to bring wonder and love to others.
+daring to dream with depth.
 """
 
 # Collection to display on home
 homeCollectionTitle = '✍︎'
-homeCollection = 'posts'
+homeCollection = 'words'
 
 # Lists parameters
-paginationSize = 10
+paginationSize = 15
 listSummaries = true
 listDateFormat = '2 Jan 2006'
 
