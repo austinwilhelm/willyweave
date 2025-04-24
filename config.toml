@@ -32,7 +32,7 @@ daring to dream with depth.
 
 # Collection to display on home
 homeCollectionTitle = '✍︎'
-homeCollection = 'words'
+homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 15
