@@ -9,7 +9,7 @@ publishDir = "docs"
 tag = 'tags'
 
 # Google analytics code
-googleAnalytics = "G-5S2KZNP0WN"
+googleAnalytics = ""
 
 [params]
 # Meta description
