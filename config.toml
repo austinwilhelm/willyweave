@@ -25,9 +25,9 @@ colorPalette = 'catpuccin'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'hello friend'
+homeIntroTitle = 'a series'
 homeIntroContent = """
-daring to dream with depth.
+dreamweaving with depth.
 """
 
 # Collection to display on home
