@@ -22,12 +22,11 @@ showFooter = false
 # Appearance settings
 theme = 'auto'
 colorPalette = 'catpuccin'
-hideHeader = false
+hideHeader = true
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'a series'
+homeIntroTitle = ''
 homeIntroContent = """
-dreamweaving with depth.
 """
 
 # Collection to display on home
