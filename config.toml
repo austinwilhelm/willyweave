@@ -34,8 +34,8 @@ homeCollectionTitle = '✍︎'
 homeCollection = 'posts'
 
 # Lists parameters
-paginationSize = 20
-listSummaries = false
+paginationSize = 25
+listSummaries = true
 listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
