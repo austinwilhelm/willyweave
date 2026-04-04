@@ -22,7 +22,7 @@ showFooter = false
 # Appearance settings
 theme = 'auto'
 colorPalette = 'catpuccin'
-hideHeader = true
+hideHeader = false
 
 # Intro on main page, content is markdown
 homeIntroTitle = ''
